@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">巴拉巴拉</string>
     <string name="app_home">首页</string>
-    <string name="app_source">https://jxjson.icu/fangdao.json</string>
+    <string name="app_source">http://139.224.73.238:16555/balabala</string>
 
     // Home Page //
     <string name="hm_ok">加载成功</string>
